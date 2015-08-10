@@ -47,7 +47,7 @@ If Team 1 has Player 1 and 2, and Team 2 has Player 3 and 4, let's assume Player
 
 The first team to 21 points wins the match, but must win by two points. Following are specific end-of-game rules. 
 
-#### 20 Points:
+##### 20 Points:
 
 When a team reaches 20 points, the losing team immediately gets the serve, with the server being the next player in the normal serve cycle. This player serves for 5 serves, and if the game is still going at that point, and the same team is winning, the serve goes to the other player of the losing team for 5 serves. 
 
