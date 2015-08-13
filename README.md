@@ -7,11 +7,13 @@ This has been hosted here so that we can easily keep up to date with the latest 
 
 ## Directory
 
-[**/Singles**](https://github.com/metova/ping-pong-rules)
+[**/Singles**](https://github.com/metova/ping-pong-rules/tree/master/Singles)
 
-[**/Doubles**](https://github.com/metova/ping-pong-rules)
+- [doubles_rules](https://github.com/metova/ping-pong-rules/blob/master/Singles/singles_rules.md)
 
-- [doubles_rules](https://github.com/metova/ping-pong-rules)
+[**/Doubles**](https://github.com/metova/ping-pong-rules/tree/master/Doubles)
+
+- [doubles_rules](https://github.com/metova/ping-pong-rules/blob/master/Doubles/doubles_rules.md)
 
 
 ## TODO
